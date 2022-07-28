@@ -8,6 +8,7 @@ class ResTendpointApplicationTests {
 
 	@Test
 	void contextLoads() {
+		assert ("This is jUnit Test") != null;
 	}
 
 }
