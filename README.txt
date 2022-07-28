@@ -15,7 +15,7 @@ Given a record of every transaction during a three month period, calculate the r
 
 A Java Spring Boot MVC Project was created on Eclipse IDE.
 
-  1. It's a Plain Java 11 application -- structure & file names are all self-explanatory
+  1. It's a Java 11 application -- structure & file names are all self-explanatory
   
   2. Dataset - a plain input.txt in the root of application - please use this comma delimited format:
 07-20-2022, John, 120.00 
@@ -28,6 +28,8 @@ A Java Spring Boot MVC Project was created on Eclipse IDE.
   
   3. pushed to github 
      gitHub: https://github.com/zhu7charlie/WebAPI (https://github.com/zhu7charlie/WebAPI.git)
+     
+  4. jUnit tests included
 
   4. can clone/pull to your local and run it on IDE
      (1). download this project to your PC.
@@ -56,7 +58,7 @@ Total: --- 1142
 
 
 NOTE: 
-1. jUnit & Cucumber ComponentTest were NOT implemented
+1. ComponentTest were NOT implemented
 2. code may not that clean and optimized as time constraints
 3. any question, please contact me
 
